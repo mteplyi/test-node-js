@@ -1,0 +1,14 @@
+/.idea/*
+!/.idea/codeStyles
+!/.idea/dictionaries
+.project
+.c9/
+*.sublime-workspace
+.vscode
+.directory
+
+node_modules/
+npm-debug.log
+yarn-error.log
+
+.env
