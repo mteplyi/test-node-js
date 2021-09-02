@@ -9,7 +9,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "dialogflow": "^0.7.0",
     "dotenv": "^6.1.0",
     "knex": "^0.15.2",
